@@ -23,7 +23,7 @@ jobs:
       - name: Checkout Test_Tool Repository
         uses: actions/checkout@v3
         with:
-          repository: AppViewX-Inc-PE/assessment-tool
+          repository: Revathi899/AVXAssesmenttool
           path: assessment-tool-repo
 
       - name: Validate Input Folder
