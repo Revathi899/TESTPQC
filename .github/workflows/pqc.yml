@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-    run-pqc-assessment:
+  run-pqc-assessment:
     runs-on: self-hosted
 
     steps:
